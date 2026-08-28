@@ -153,14 +153,14 @@ Do not edit the published `main` branch directly unless your instructor specific
 
 Before submitting, confirm that:
 
-- [ ] The published GitHub Pages URL works.
-- [ ] Your name appears on the site.
-- [ ] No placeholder text remains.
-- [ ] No placeholder images remain.
-- [ ] Your résumé link works.
-- [ ] Every navigation link works.
-- [ ] Every project has a screenshot.
-- [ ] Every repository link works.
+- [x] The published GitHub Pages URL works.
+- [x] Your name appears on the site.
+- [x] No placeholder text remains.
+- [x] No placeholder images remain.
+- [x] Your résumé link works.
+- [x] Every navigation link works.
+- [x] Every project has a screenshot.
+- [x] Every repository link works.
 - [ ] Every demo link works.
 - [ ] Your site is readable on both desktop and mobile.
 - [ ] You removed private information.
